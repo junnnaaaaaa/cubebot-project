@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/junnaaa/project/pico-test/target/thumbv6m-none-eabi/release/build/cortex-m-da4d1e1f326f7697/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m

@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/junnaaa/project/pico-test/target/thumbv6m-none-eabi/release/build/pico-test-de8401dffccd04e0/out
+cargo:rerun-if-changed=memory.x

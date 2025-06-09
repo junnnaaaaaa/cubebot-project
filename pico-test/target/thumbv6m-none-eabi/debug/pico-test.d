@@ -1,0 +1,1 @@
+/home/junnaaa/project/pico-test/target/thumbv6m-none-eabi/debug/pico-test: /home/junnaaa/project/pico-test/build.rs /home/junnaaa/project/pico-test/memory.x /home/junnaaa/project/pico-test/src/main.rs

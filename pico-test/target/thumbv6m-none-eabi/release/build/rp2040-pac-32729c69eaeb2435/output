@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/junnaaa/project/pico-test/target/thumbv6m-none-eabi/release/build/rp2040-pac-32729c69eaeb2435/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
