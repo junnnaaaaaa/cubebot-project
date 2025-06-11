@@ -1,0 +1,7 @@
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/picotool
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/picotoolTargets.cmake
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/picotoolTargets-release.cmake
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/picotoolConfig.cmake
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/enc_bootloader.elf
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool/enc_bootloader_mbedtls.elf

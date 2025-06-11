@@ -1,0 +1,2 @@
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/junnaaa/cubebot-project/kys/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir
