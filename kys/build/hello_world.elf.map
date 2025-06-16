@@ -182,7 +182,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_line    0x00000000      0x13e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
- .debug_str     0x00000000      0x19f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
+ .debug_str     0x00000000      0x1a7 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_frame   0x00000000       0x28 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.o
  .ARM.attributes
@@ -272,7 +272,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
  .debug_line    0x00000000      0x25c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
- .debug_str     0x00000000      0x1e0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
+ .debug_str     0x00000000      0x1e8 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2040/pico_platform/platform.c.o
  .ARM.attributes
@@ -400,7 +400,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x14b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
  .debug_line    0x00000000      0xe77 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
- .debug_str     0x00000000      0x4f7 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
+ .debug_str     0x00000000      0x4ff CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
  .debug_frame   0x00000000      0x100 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.o
  .ARM.attributes
@@ -455,7 +455,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
  .debug_line    0x00000000      0x411 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
- .debug_str     0x00000000      0x2b2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
+ .debug_str     0x00000000      0x2ba CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
  .debug_frame   0x00000000       0x50 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.o
  .ARM.attributes
@@ -523,7 +523,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x58 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
  .debug_line    0x00000000      0x4dc CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
- .debug_str     0x00000000      0x3d3 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
+ .debug_str     0x00000000      0x3db CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
  .debug_frame   0x00000000       0x70 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.o
  .ARM.attributes
@@ -625,7 +625,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
  .debug_line    0x00000000      0x57d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
- .debug_str     0x00000000      0x380 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
+ .debug_str     0x00000000      0x388 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
  .debug_frame   0x00000000      0x124 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.o
  .ARM.attributes
@@ -667,7 +667,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x480 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
  .debug_line    0x00000000     0x13ff CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
- .debug_str     0x00000000      0x3c9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
+ .debug_str     0x00000000      0x3d1 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
  .debug_frame   0x00000000      0x184 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.o
  .ARM.attributes
@@ -700,7 +700,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
  .debug_line    0x00000000      0xf72 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
- .debug_str     0x00000000      0x469 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
+ .debug_str     0x00000000      0x471 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
  .debug_frame   0x00000000       0xf0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.o
  .ARM.attributes
@@ -735,7 +735,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x259 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
  .debug_line    0x00000000      0xf9d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
- .debug_str     0x00000000      0xbdc CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
+ .debug_str     0x00000000      0xbe4 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
  .debug_frame   0x00000000       0xec CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.o
  .ARM.attributes
@@ -794,7 +794,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x3a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_line    0x00000000      0x33f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
- .debug_str     0x00000000      0x34c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
+ .debug_str     0x00000000      0x354 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_frame   0x00000000       0x40 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.o
  .ARM.attributes
@@ -831,7 +831,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xdf CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_line    0x00000000      0x7ac CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_str     0x00000000      0x37c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_str     0x00000000      0x384 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_frame   0x00000000       0xc0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.o
  .ARM.attributes
@@ -858,7 +858,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .debug_line    0x00000000       0x6d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
- .debug_str     0x00000000      0x17d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
+ .debug_str     0x00000000      0x185 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.o
@@ -870,7 +870,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .debug_line    0x00000000       0x70 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
- .debug_str     0x00000000      0x180 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
+ .debug_str     0x00000000      0x188 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.o
@@ -904,7 +904,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
  .debug_line    0x00000000      0x497 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
- .debug_str     0x00000000      0x6d9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
+ .debug_str     0x00000000      0x6e1 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.o
  .ARM.attributes
@@ -931,12 +931,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_line    0x00000000       0xa6 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_line_str
-                0x00000000       0x6c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
+                0x00000000       0x74 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_info    0x00000000       0x23 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_abbrev  0x00000000       0x12 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
- .debug_str     0x00000000       0x7a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
+ .debug_str     0x00000000       0x82 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.S.o
  .ARM.attributes
@@ -966,7 +966,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_line    0x00000000      0x31f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
- .debug_str     0x00000000      0x246 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
+ .debug_str     0x00000000      0x24e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .ARM.attributes
@@ -1156,7 +1156,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5be CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
  .debug_line    0x00000000     0x2d3e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
- .debug_str     0x00000000      0x502 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
+ .debug_str     0x00000000      0x50a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
  .debug_frame   0x00000000      0x444 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.o
  .ARM.attributes
@@ -1365,7 +1365,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x3ff CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
  .debug_line    0x00000000     0x25a9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
- .debug_str     0x00000000      0x515 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
+ .debug_str     0x00000000      0x51d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
  .debug_frame   0x00000000      0x388 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.o
  .ARM.attributes
@@ -1407,7 +1407,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x49 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
  .debug_line    0x00000000      0x2a0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
- .debug_str     0x00000000      0x21f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
+ .debug_str     0x00000000      0x227 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.o
  .ARM.attributes
@@ -1513,7 +1513,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
  .debug_line    0x00000000     0x2dc0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
- .debug_str     0x00000000      0x6dd CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
+ .debug_str     0x00000000      0x6e5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
  .debug_frame   0x00000000      0x3dc CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.o
  .ARM.attributes
@@ -1536,7 +1536,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_line    0x00000000      0x280 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
- .debug_str     0x00000000      0x364 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
+ .debug_str     0x00000000      0x36c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .ARM.attributes
@@ -1719,7 +1719,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x1ce CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .debug_line    0x00000000      0xe0e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
- .debug_str     0x00000000      0xebb CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+ .debug_str     0x00000000      0xec3 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .debug_frame   0x00000000      0x158 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .ARM.attributes
@@ -3454,144 +3454,144 @@ LOAD linker stubs
                 0x00000da8       0xc8 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
 
 .debug_rnglists
-                0x00000000     0x2c7c
+                0x00000000     0x2c7b
  .debug_rnglists
-                0x00000000      0x271 CMakeFiles/hello_world.dir/hello_world.c.o
+                0x00000000      0x270 CMakeFiles/hello_world.dir/hello_world.c.o
  .debug_rnglists
-                0x00000271      0x5d0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
+                0x00000270      0x5d0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
  .debug_rnglists
-                0x00000841       0x19 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
+                0x00000840       0x19 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
  .debug_rnglists
-                0x0000085a       0xb6 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
+                0x00000859       0xb6 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
  .debug_rnglists
-                0x00000910       0x58 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
+                0x0000090f       0x58 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
  .debug_rnglists
-                0x00000968       0x3d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+                0x00000967       0x3d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
  .debug_rnglists
-                0x000009a5      0x37d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
+                0x000009a4      0x37d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
  .debug_rnglists
-                0x00000d22       0x1f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
+                0x00000d21       0x1f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
  .debug_rnglists
-                0x00000d41      0x325 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
+                0x00000d40      0x325 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
  .debug_rnglists
-                0x00001066      0x7e2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
+                0x00001065      0x7e2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
  .debug_rnglists
-                0x00001848      0x2c6 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
+                0x00001847      0x2c6 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
  .debug_rnglists
-                0x00001b0e      0x5af CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
+                0x00001b0d      0x5af CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
  .debug_rnglists
-                0x000020bd       0x5c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
+                0x000020bc       0x5c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
  .debug_rnglists
-                0x00002119       0x2b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
+                0x00002118       0x2b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
  .debug_rnglists
-                0x00002144      0x112 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
+                0x00002143      0x112 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
  .debug_rnglists
-                0x00002256       0x1f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
+                0x00002255       0x1f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
  .debug_rnglists
-                0x00002275       0x3d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
+                0x00002274       0x3d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
  .debug_rnglists
-                0x000022b2       0x49 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
+                0x000022b1       0x49 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
  .debug_rnglists
-                0x000022fb       0x20 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+                0x000022fa       0x20 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
  .debug_rnglists
-                0x0000231b       0x43 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+                0x0000231a       0x43 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
  .debug_rnglists
-                0x0000235e       0x2c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
+                0x0000235d       0x2c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
  .debug_rnglists
-                0x0000238a       0xf9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+                0x00002389       0xf9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
  .debug_rnglists
-                0x00002483       0x14 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+                0x00002482       0x14 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
  .debug_rnglists
-                0x00002497       0x99 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+                0x00002496       0x99 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
  .debug_rnglists
-                0x00002530       0xe5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+                0x0000252f       0xe5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
  .debug_rnglists
-                0x00002615       0x13 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+                0x00002614       0x13 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
  .debug_rnglists
-                0x00002628       0x38 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+                0x00002627       0x38 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
  .debug_rnglists
-                0x00002660       0x25 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+                0x0000265f       0x25 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
  .debug_rnglists
-                0x00002685      0x2a2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
+                0x00002684      0x2a2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
  .debug_rnglists
-                0x00002927       0x1b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
+                0x00002926       0x1b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
  .debug_rnglists
-                0x00002942       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+                0x00002941       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
  .debug_rnglists
-                0x000029c1      0x2bb CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
+                0x000029c0      0x2bb CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
 
-.debug_line     0x00000000    0x15f17
- .debug_line    0x00000000      0xe5f CMakeFiles/hello_world.dir/hello_world.c.o
- .debug_line    0x00000e5f     0x1c9a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_line    0x00002af9      0x284 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_line    0x00002d7d      0x8ea CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
- .debug_line    0x00003667      0x4d0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
- .debug_line    0x00003b37      0x3b3 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_line    0x00003eea     0x1769 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
- .debug_line    0x00005653      0x2de CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
- .debug_line    0x00005931     0x1b39 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
- .debug_line    0x0000746a     0x3545 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
- .debug_line    0x0000a9af     0x1d09 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
- .debug_line    0x0000c6b8     0x2100 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_line    0x0000e7b8      0x4f7 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
- .debug_line    0x0000ecaf      0x33d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_line    0x0000efec      0x45c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_line    0x0000f448      0x346 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_line    0x0000f78e      0x313 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
- .debug_line    0x0000faa1      0x539 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_line    0x0000ffda      0x55d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_line    0x00010537      0x107 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_line    0x0001063e      0x2a9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_line    0x000108e7      0x452 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_line    0x00010d39      0x495 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_line    0x000111ce      0x66d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_line    0x0001183b       0x61 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_line    0x0001189c      0x3d2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_line    0x00011c6e      0x3aa CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_line    0x00012018      0x195 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_line    0x000121ad       0x94 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_line    0x00012241      0x1f0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_line    0x00012431     0x1d11 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
- .debug_line    0x00014142       0xa5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
- .debug_line    0x000141e7      0x864 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_line    0x00014a4b     0x14cc CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
+.debug_line     0x00000000    0x15f1f
+ .debug_line    0x00000000      0xe67 CMakeFiles/hello_world.dir/hello_world.c.o
+ .debug_line    0x00000e67     0x1c9a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_line    0x00002b01      0x284 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_line    0x00002d85      0x8ea CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
+ .debug_line    0x0000366f      0x4d0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
+ .debug_line    0x00003b3f      0x3b3 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_line    0x00003ef2     0x1769 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
+ .debug_line    0x0000565b      0x2de CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
+ .debug_line    0x00005939     0x1b39 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
+ .debug_line    0x00007472     0x3545 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
+ .debug_line    0x0000a9b7     0x1d09 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
+ .debug_line    0x0000c6c0     0x2100 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_line    0x0000e7c0      0x4f7 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
+ .debug_line    0x0000ecb7      0x33d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_line    0x0000eff4      0x45c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_line    0x0000f450      0x346 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_line    0x0000f796      0x313 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_line    0x0000faa9      0x539 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_line    0x0000ffe2      0x55d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_line    0x0001053f      0x107 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_line    0x00010646      0x2a9 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_line    0x000108ef      0x452 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_line    0x00010d41      0x495 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_line    0x000111d6      0x66d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00011843       0x61 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_line    0x000118a4      0x3d2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_line    0x00011c76      0x3aa CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_line    0x00012020      0x195 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_line    0x000121b5       0x94 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_line    0x00012249      0x1f0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_line    0x00012439     0x1d11 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
+ .debug_line    0x0001414a       0xa5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_line    0x000141ef      0x864 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_line    0x00014a53     0x14cc CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
 
-.debug_str      0x00000000     0x4343
- .debug_str     0x00000000     0x4343 CMakeFiles/hello_world.dir/hello_world.c.o
-                                0x81a (size before relaxing)
- .debug_str     0x00004343      0xc5c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_str     0x00004343      0x1e7 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_str     0x00004343      0x36a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
- .debug_str     0x00004343      0x313 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
- .debug_str     0x00004343      0x226 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_str     0x00004343      0xa5a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
- .debug_str     0x00004343      0x1f2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
- .debug_str     0x00004343      0x785 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
- .debug_str     0x00004343     0x117b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
- .debug_str     0x00004343      0x9cd CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
- .debug_str     0x00004343      0x982 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_str     0x00004343      0x445 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
- .debug_str     0x00004343      0x274 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_str     0x00004343      0x339 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_str     0x00004343      0x229 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_str     0x00004343      0x279 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
- .debug_str     0x00004343      0x76d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_str     0x00004343      0x481 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_str     0x00004343       0x7c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_str     0x00004343       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_str     0x00004343       0x81 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_str     0x00004343      0x2a2 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_str     0x00004343       0x87 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004343       0x85 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_str     0x00004343       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_str     0x00004343      0x287 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_str     0x00004343       0x85 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004343       0x7c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_str     0x00004343      0x3e8 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_str     0x00004343      0x4cb CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
- .debug_str     0x00004343       0x70 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
- .debug_str     0x00004343      0x707 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_str     0x00004343      0xd62 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
+.debug_str      0x00000000     0x4353
+ .debug_str     0x00000000     0x4353 CMakeFiles/hello_world.dir/hello_world.c.o
+                                0x82a (size before relaxing)
+ .debug_str     0x00004353      0xc64 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_str     0x00004353      0x1ef CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_str     0x00004353      0x372 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.o
+ .debug_str     0x00004353      0x31b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.o
+ .debug_str     0x00004353      0x22e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_str     0x00004353      0xa62 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.o
+ .debug_str     0x00004353      0x1fa CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.o
+ .debug_str     0x00004353      0x78d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.o
+ .debug_str     0x00004353     0x1183 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.o
+ .debug_str     0x00004353      0x9d5 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.o
+ .debug_str     0x00004353      0x98a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_str     0x00004353      0x44d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.o
+ .debug_str     0x00004353      0x27c CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_str     0x00004353      0x341 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_str     0x00004353      0x231 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_str     0x00004353      0x281 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_str     0x00004353      0x775 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_str     0x00004353      0x489 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_str     0x00004353       0x84 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_str     0x00004353       0x87 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_str     0x00004353       0x89 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_str     0x00004353      0x2aa CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_str     0x00004353       0x8f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004353       0x8d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_str     0x00004353       0x87 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_str     0x00004353      0x28f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_str     0x00004353       0x8d CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004353       0x84 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_str     0x00004353      0x3f0 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_str     0x00004353      0x4d3 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.o
+ .debug_str     0x00004353       0x78 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_str     0x00004353      0x70f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_str     0x00004353      0xd6a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.o
 
 .debug_frame    0x00000000     0x19d4
  .debug_frame   0x00000000       0x68 CMakeFiles/hello_world.dir/hello_world.c.o
@@ -3621,25 +3621,25 @@ LOAD linker stubs
  .debug_frame   0x000019ac       0x28 /home/junnaaa/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
 
 .debug_line_str
-                0x00000000      0x343
+                0x00000000      0x34b
  .debug_line_str
-                0x00000000      0x343 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
-                                 0x6e (size before relaxing)
+                0x00000000      0x34b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+                                 0x76 (size before relaxing)
  .debug_line_str
-                0x00000343       0x71 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
+                0x0000034b       0x79 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_hardware.S.o
  .debug_line_str
-                0x00000343       0x73 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+                0x0000034b       0x7b CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
  .debug_line_str
-                0x00000343       0x79 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+                0x0000034b       0x81 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x00000343       0x77 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+                0x0000034b       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
  .debug_line_str
-                0x00000343       0x71 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+                0x0000034b       0x79 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
  .debug_line_str
-                0x00000343       0x77 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+                0x0000034b       0x7f CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x00000343       0x6e CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+                0x0000034b       0x76 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
  .debug_line_str
-                0x00000343       0x62 CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
+                0x0000034b       0x6a CMakeFiles/hello_world.dir/home/junnaaa/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.o
  .debug_line_str
-                0x00000343       0xc2 /home/junnaaa/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000034b       0xc2 /home/junnaaa/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
