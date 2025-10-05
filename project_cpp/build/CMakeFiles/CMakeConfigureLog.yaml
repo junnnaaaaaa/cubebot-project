@@ -4441,3 +4441,103 @@ events:
         - "/opt"
       CMAKE_FIND_ROOT_PATH: "/usr"
 ...
+
+---
+events:
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "/home/junnaaa/pico-sdk/tools/CMakeLists.txt:153 (find_package)"
+      - "/home/junnaaa/pico-sdk/tools/CMakeLists.txt:688 (pico_init_picotool)"
+      - "/home/junnaaa/pico-sdk/src/cmake/on_device.cmake:81 (picotool_postprocess_binary)"
+      - "CMakeLists.txt:15 (pico_add_extra_outputs)"
+    name: "picotool"
+    configs:
+      -
+        filename: "picotoolConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "picotool-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "2.1.1"
+      version_complete: "2.1.1"
+      exact: false
+    settings:
+      required: "optional"
+      quiet: true
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "picotool"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "NEVER"
+    candidates:
+      -
+        path: "/home/junnaaa/cubebot-project/project_cpp/build/CMakeFiles/pkgRedirects/picotoolConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/home/junnaaa/cubebot-project/project_cpp/build/CMakeFiles/pkgRedirects/picotool-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/usr/local/picotoolConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/usr/local/picotool-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/usr/picotoolConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/usr/picotool-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "/usr/lib/cmake/picotool/picotoolConfig.cmake"
+      mode: "config"
+      version: "2.2.0"
+    search_context:
+      ENV{PATH}:
+        - "usr/bin"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/bin"
+        - "/usr/bin/site_perl"
+        - "/usr/bin/vendor_perl"
+        - "/usr/bin/core_perl"
+        - "/home/junnaaa/.local/bin"
+        - "/home/junnaaa/.cargo/bin"
+        - "/root/.local/bin"
+        - "/home/junnaaa/.lmstudio/bin"
+        - "/home/junnaaa/.local/bin"
+        - "/home/junnaaa/.cargo/bin"
+        - "/root/.local/bin"
+        - "/home/junnaaa/.lmstudio/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/usr"
+        - "/usr/local"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+      CMAKE_FIND_ROOT_PATH: "/usr"
+...

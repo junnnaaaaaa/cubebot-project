@@ -12,4 +12,4 @@ pico_sdk_init()
 # rest of your project
 add_executable(main main.cpp)
 target_link_libraries(main pico_stdlib)
-
+pico_add_extra_outputs(main)

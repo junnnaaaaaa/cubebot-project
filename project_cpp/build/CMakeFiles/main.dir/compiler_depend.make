@@ -2238,13 +2238,9 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
   /usr/arm-none-eabi/include/_newlib_version.h \
   /usr/arm-none-eabi/include/alloca.h \
   /usr/arm-none-eabi/include/assert.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/algorithm \
-  /usr/arm-none-eabi/include/c++/14.2.0/any \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/atomic_word.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/basic_file.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++allocator.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++io.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++locale.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/ctype_base.h \
@@ -2252,244 +2248,98 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/error_constants.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/gthr-default.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/gthr.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/messages_members.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/opt_random.h \
   /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/stdc++.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/time_members.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/array \
-  /usr/arm-none-eabi/include/c++/14.2.0/atomic \
-  /usr/arm-none-eabi/include/c++/14.2.0/backward/auto_ptr.h \
   /usr/arm-none-eabi/include/c++/14.2.0/backward/binders.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bit \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/algorithmfwd.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/align.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/alloc_traits.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/allocated_ptr.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/allocator.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_base.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_futex.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_lockfree_defines.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_ios.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_ios.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_string.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_string.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/char_traits.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/charconv.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/chrono.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/codecvt.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/concept_check.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/cpp_type_traits.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/cxxabi_forced.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/cxxabi_init_exception.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/deque.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/enable_special_members.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/erase_if.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/exception.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/exception_defines.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/exception_ptr.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/forward_list.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/forward_list.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/fs_dir.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/fs_fwd.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/fs_ops.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/fs_path.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/fstream.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/functexcept.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/functional_hash.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/gslice.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/gslice_array.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/hash_bytes.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/hashtable.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/hashtable_policy.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/indirect_array.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/invoke.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/ios_base.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/istream.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/list.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_conv.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets_nonio.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets_nonio.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/localefwd.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/mask_array.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/memory_resource.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/memoryfwd.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/move.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/nested_exception.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/new_allocator.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/node_handle.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/ostream.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/ostream_insert.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/parse_numbers.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/postypes.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/predefined_ops.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/ptr_traits.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/quoted_string.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/random.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/random.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/range_access.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/refwrap.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_automaton.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_automaton.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_compiler.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_compiler.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_constants.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_error.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_executor.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_executor.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_scanner.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/regex_scanner.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/requires_hosted.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr_atomic.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr_base.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/slice_array.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/specfun.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/sstream.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/std_abs.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/std_function.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/std_mutex.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/std_thread.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_algo.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_algobase.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_bvector.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_construct.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_deque.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_function.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_heap.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_iterator.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_iterator_base_funcs.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_iterator_base_types.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_list.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_map.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_multimap.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_multiset.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_numeric.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_pair.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_queue.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_raw_storage_iter.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_relops.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_set.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_stack.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_tempbuf.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_tree.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_uninitialized.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_vector.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/stream_iterator.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/streambuf.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/streambuf_iterator.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/string_view.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/stringfwd.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/this_thread_sleep.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/uniform_int_dist.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/unique_lock.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/unique_ptr.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/unordered_map.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/unordered_set.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/uses_allocator.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/uses_allocator_args.h \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/utility.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_after.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_array.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_array.tcc \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_before.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bits/vector.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/bits/version.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/bitset \
   /usr/arm-none-eabi/include/c++/14.2.0/cassert \
-  /usr/arm-none-eabi/include/c++/14.2.0/ccomplex \
   /usr/arm-none-eabi/include/c++/14.2.0/cctype \
   /usr/arm-none-eabi/include/c++/14.2.0/cerrno \
-  /usr/arm-none-eabi/include/c++/14.2.0/cfenv \
-  /usr/arm-none-eabi/include/c++/14.2.0/cfloat \
-  /usr/arm-none-eabi/include/c++/14.2.0/charconv \
-  /usr/arm-none-eabi/include/c++/14.2.0/chrono \
-  /usr/arm-none-eabi/include/c++/14.2.0/cinttypes \
-  /usr/arm-none-eabi/include/c++/14.2.0/ciso646 \
-  /usr/arm-none-eabi/include/c++/14.2.0/climits \
   /usr/arm-none-eabi/include/c++/14.2.0/clocale \
   /usr/arm-none-eabi/include/c++/14.2.0/cmath \
-  /usr/arm-none-eabi/include/c++/14.2.0/codecvt \
-  /usr/arm-none-eabi/include/c++/14.2.0/compare \
-  /usr/arm-none-eabi/include/c++/14.2.0/complex \
   /usr/arm-none-eabi/include/c++/14.2.0/concepts \
-  /usr/arm-none-eabi/include/c++/14.2.0/condition_variable \
-  /usr/arm-none-eabi/include/c++/14.2.0/csetjmp \
-  /usr/arm-none-eabi/include/c++/14.2.0/csignal \
-  /usr/arm-none-eabi/include/c++/14.2.0/cstdalign \
-  /usr/arm-none-eabi/include/c++/14.2.0/cstdarg \
-  /usr/arm-none-eabi/include/c++/14.2.0/cstdbool \
   /usr/arm-none-eabi/include/c++/14.2.0/cstddef \
-  /usr/arm-none-eabi/include/c++/14.2.0/cstdint \
   /usr/arm-none-eabi/include/c++/14.2.0/cstdio \
   /usr/arm-none-eabi/include/c++/14.2.0/cstdlib \
-  /usr/arm-none-eabi/include/c++/14.2.0/cstring \
-  /usr/arm-none-eabi/include/c++/14.2.0/ctgmath \
-  /usr/arm-none-eabi/include/c++/14.2.0/ctime \
-  /usr/arm-none-eabi/include/c++/14.2.0/cuchar \
   /usr/arm-none-eabi/include/c++/14.2.0/cwchar \
   /usr/arm-none-eabi/include/c++/14.2.0/cwctype \
   /usr/arm-none-eabi/include/c++/14.2.0/debug/assertions.h \
   /usr/arm-none-eabi/include/c++/14.2.0/debug/debug.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/deque \
   /usr/arm-none-eabi/include/c++/14.2.0/exception \
-  /usr/arm-none-eabi/include/c++/14.2.0/ext/aligned_buffer.h \
   /usr/arm-none-eabi/include/c++/14.2.0/ext/alloc_traits.h \
   /usr/arm-none-eabi/include/c++/14.2.0/ext/atomicity.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/ext/concurrence.h \
   /usr/arm-none-eabi/include/c++/14.2.0/ext/numeric_traits.h \
   /usr/arm-none-eabi/include/c++/14.2.0/ext/string_conversions.h \
   /usr/arm-none-eabi/include/c++/14.2.0/ext/type_traits.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/fenv.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/filesystem \
-  /usr/arm-none-eabi/include/c++/14.2.0/forward_list \
-  /usr/arm-none-eabi/include/c++/14.2.0/fstream \
-  /usr/arm-none-eabi/include/c++/14.2.0/functional \
-  /usr/arm-none-eabi/include/c++/14.2.0/future \
   /usr/arm-none-eabi/include/c++/14.2.0/initializer_list \
-  /usr/arm-none-eabi/include/c++/14.2.0/iomanip \
   /usr/arm-none-eabi/include/c++/14.2.0/ios \
   /usr/arm-none-eabi/include/c++/14.2.0/iosfwd \
   /usr/arm-none-eabi/include/c++/14.2.0/iostream \
   /usr/arm-none-eabi/include/c++/14.2.0/istream \
-  /usr/arm-none-eabi/include/c++/14.2.0/iterator \
   /usr/arm-none-eabi/include/c++/14.2.0/limits \
-  /usr/arm-none-eabi/include/c++/14.2.0/list \
-  /usr/arm-none-eabi/include/c++/14.2.0/locale \
-  /usr/arm-none-eabi/include/c++/14.2.0/map \
-  /usr/arm-none-eabi/include/c++/14.2.0/memory \
-  /usr/arm-none-eabi/include/c++/14.2.0/memory_resource \
-  /usr/arm-none-eabi/include/c++/14.2.0/mutex \
   /usr/arm-none-eabi/include/c++/14.2.0/new \
-  /usr/arm-none-eabi/include/c++/14.2.0/numeric \
-  /usr/arm-none-eabi/include/c++/14.2.0/optional \
   /usr/arm-none-eabi/include/c++/14.2.0/ostream \
-  /usr/arm-none-eabi/include/c++/14.2.0/pstl/execution_defs.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_algorithm_defs.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_memory_defs.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_numeric_defs.h \
   /usr/arm-none-eabi/include/c++/14.2.0/pstl/pstl_config.h \
-  /usr/arm-none-eabi/include/c++/14.2.0/queue \
-  /usr/arm-none-eabi/include/c++/14.2.0/random \
-  /usr/arm-none-eabi/include/c++/14.2.0/ratio \
-  /usr/arm-none-eabi/include/c++/14.2.0/regex \
-  /usr/arm-none-eabi/include/c++/14.2.0/scoped_allocator \
-  /usr/arm-none-eabi/include/c++/14.2.0/set \
-  /usr/arm-none-eabi/include/c++/14.2.0/shared_mutex \
-  /usr/arm-none-eabi/include/c++/14.2.0/sstream \
-  /usr/arm-none-eabi/include/c++/14.2.0/stack \
   /usr/arm-none-eabi/include/c++/14.2.0/stdexcept \
   /usr/arm-none-eabi/include/c++/14.2.0/streambuf \
   /usr/arm-none-eabi/include/c++/14.2.0/string \
   /usr/arm-none-eabi/include/c++/14.2.0/string_view \
   /usr/arm-none-eabi/include/c++/14.2.0/system_error \
-  /usr/arm-none-eabi/include/c++/14.2.0/thread \
   /usr/arm-none-eabi/include/c++/14.2.0/tr1/bessel_function.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/tr1/beta_function.tcc \
   /usr/arm-none-eabi/include/c++/14.2.0/tr1/ell_integral.tcc \
@@ -2504,91 +2354,43 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
   /usr/arm-none-eabi/include/c++/14.2.0/tr1/special_function_util.h \
   /usr/arm-none-eabi/include/c++/14.2.0/tuple \
   /usr/arm-none-eabi/include/c++/14.2.0/type_traits \
-  /usr/arm-none-eabi/include/c++/14.2.0/typeindex \
   /usr/arm-none-eabi/include/c++/14.2.0/typeinfo \
-  /usr/arm-none-eabi/include/c++/14.2.0/unordered_map \
-  /usr/arm-none-eabi/include/c++/14.2.0/unordered_set \
-  /usr/arm-none-eabi/include/c++/14.2.0/utility \
-  /usr/arm-none-eabi/include/c++/14.2.0/valarray \
-  /usr/arm-none-eabi/include/c++/14.2.0/variant \
-  /usr/arm-none-eabi/include/c++/14.2.0/vector \
   /usr/arm-none-eabi/include/ctype.h \
   /usr/arm-none-eabi/include/errno.h \
-  /usr/arm-none-eabi/include/fenv.h \
-  /usr/arm-none-eabi/include/inttypes.h \
-  /usr/arm-none-eabi/include/limits.h \
   /usr/arm-none-eabi/include/locale.h \
   /usr/arm-none-eabi/include/machine/_default_types.h \
-  /usr/arm-none-eabi/include/machine/_endian.h \
   /usr/arm-none-eabi/include/machine/_types.h \
-  /usr/arm-none-eabi/include/machine/endian.h \
   /usr/arm-none-eabi/include/machine/ieeefp.h \
-  /usr/arm-none-eabi/include/machine/setjmp.h \
   /usr/arm-none-eabi/include/machine/stdlib.h \
-  /usr/arm-none-eabi/include/machine/time.h \
-  /usr/arm-none-eabi/include/machine/types.h \
   /usr/arm-none-eabi/include/math.h \
   /usr/arm-none-eabi/include/newlib.h \
-  /usr/arm-none-eabi/include/setjmp.h \
-  /usr/arm-none-eabi/include/signal.h \
   /usr/arm-none-eabi/include/stdint.h \
   /usr/arm-none-eabi/include/stdio.h \
   /usr/arm-none-eabi/include/stdlib.h \
-  /usr/arm-none-eabi/include/string.h \
-  /usr/arm-none-eabi/include/strings.h \
   /usr/arm-none-eabi/include/sys/_intsup.h \
   /usr/arm-none-eabi/include/sys/_locale.h \
-  /usr/arm-none-eabi/include/sys/_pthreadtypes.h \
-  /usr/arm-none-eabi/include/sys/_sigset.h \
   /usr/arm-none-eabi/include/sys/_stdint.h \
-  /usr/arm-none-eabi/include/sys/_timespec.h \
-  /usr/arm-none-eabi/include/sys/_timeval.h \
   /usr/arm-none-eabi/include/sys/_types.h \
   /usr/arm-none-eabi/include/sys/cdefs.h \
   /usr/arm-none-eabi/include/sys/config.h \
   /usr/arm-none-eabi/include/sys/errno.h \
   /usr/arm-none-eabi/include/sys/features.h \
-  /usr/arm-none-eabi/include/sys/fenv.h \
   /usr/arm-none-eabi/include/sys/lock.h \
   /usr/arm-none-eabi/include/sys/reent.h \
-  /usr/arm-none-eabi/include/sys/sched.h \
-  /usr/arm-none-eabi/include/sys/select.h \
-  /usr/arm-none-eabi/include/sys/signal.h \
   /usr/arm-none-eabi/include/sys/stdio.h \
-  /usr/arm-none-eabi/include/sys/string.h \
-  /usr/arm-none-eabi/include/sys/syslimits.h \
-  /usr/arm-none-eabi/include/sys/timespec.h \
-  /usr/arm-none-eabi/include/sys/types.h \
-  /usr/arm-none-eabi/include/time.h \
   /usr/arm-none-eabi/include/wchar.h \
   /usr/arm-none-eabi/include/wctype.h \
-  /usr/lib/gcc/arm-none-eabi/14.2.0/include/float.h \
-  /usr/lib/gcc/arm-none-eabi/14.2.0/include/limits.h \
-  /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdalign.h \
   /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h \
   /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdbool.h \
   /usr/lib/gcc/arm-none-eabi/14.2.0/include/stddef.h \
-  /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdint.h \
-  /usr/lib/gcc/arm-none-eabi/14.2.0/include/syslimits.h
+  /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdint.h
 
-
-/usr/lib/gcc/arm-none-eabi/14.2.0/include/syslimits.h:
-
-/usr/lib/gcc/arm-none-eabi/14.2.0/include/limits.h:
-
-/usr/arm-none-eabi/include/sys/signal.h:
-
-/usr/arm-none-eabi/include/signal.h:
 
 /usr/arm-none-eabi/include/locale.h:
-
-/usr/arm-none-eabi/include/limits.h:
 
 /usr/arm-none-eabi/include/ctype.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/typeinfo:
-
-/usr/arm-none-eabi/include/c++/14.2.0/typeindex:
 
 /usr/arm-none-eabi/include/c++/14.2.0/type_traits:
 
@@ -2600,11 +2402,11 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/hypergeometric.tcc:
 
+/usr/arm-none-eabi/include/c++/14.2.0/tr1/exp_integral.tcc:
+
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/ell_integral.tcc:
 
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/bessel_function.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/thread:
 
 /usr/arm-none-eabi/include/c++/14.2.0/string_view:
 
@@ -2612,39 +2414,21 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/c++/14.2.0/stdexcept:
 
-/usr/arm-none-eabi/include/c++/14.2.0/stack:
-
-/usr/arm-none-eabi/include/c++/14.2.0/ratio:
-
-/usr/arm-none-eabi/include/c++/14.2.0/queue:
-
-/usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_numeric_defs.h:
-
 /usr/arm-none-eabi/include/c++/14.2.0/ostream:
 
 /usr/arm-none-eabi/include/c++/14.2.0/new:
 
-/usr/arm-none-eabi/include/c++/14.2.0/map:
-
-/usr/arm-none-eabi/include/c++/14.2.0/list:
-
 /usr/arm-none-eabi/include/c++/14.2.0/limits:
 
-/usr/arm-none-eabi/include/c++/14.2.0/iterator:
-
 /usr/arm-none-eabi/include/c++/14.2.0/istream:
+
+/usr/arm-none-eabi/include/c++/14.2.0/iostream:
+
+/usr/arm-none-eabi/include/c++/14.2.0/ios:
 
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/poly_laguerre.tcc:
 
 /usr/arm-none-eabi/include/c++/14.2.0/initializer_list:
-
-/usr/arm-none-eabi/include/c++/14.2.0/valarray:
-
-/usr/arm-none-eabi/include/c++/14.2.0/functional:
-
-/usr/arm-none-eabi/include/c++/14.2.0/fstream:
-
-/usr/arm-none-eabi/include/c++/14.2.0/fenv.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/ext/type_traits.h:
 
@@ -2654,215 +2438,43 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/c++/14.2.0/ext/alloc_traits.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ext/aligned_buffer.h:
+/usr/arm-none-eabi/include/wchar.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ios:
+/usr/arm-none-eabi/include/c++/14.2.0/exception:
 
-/usr/arm-none-eabi/include/c++/14.2.0/cuchar:
+/usr/arm-none-eabi/include/c++/14.2.0/debug/assertions.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/cstring:
-
-/usr/arm-none-eabi/include/c++/14.2.0/unordered_map:
-
-/usr/arm-none-eabi/include/c++/14.2.0/cstdbool:
-
-/usr/arm-none-eabi/include/c++/14.2.0/cstdalign:
-
-/usr/arm-none-eabi/include/c++/14.2.0/csignal:
-
-/usr/arm-none-eabi/include/c++/14.2.0/iostream:
-
-/usr/arm-none-eabi/include/c++/14.2.0/csetjmp:
-
-/usr/arm-none-eabi/include/c++/14.2.0/complex:
-
-/usr/arm-none-eabi/include/c++/14.2.0/compare:
-
-/usr/arm-none-eabi/include/c++/14.2.0/codecvt:
-
-/usr/arm-none-eabi/include/c++/14.2.0/cinttypes:
-
-/usr/arm-none-eabi/include/c++/14.2.0/chrono:
-
-/usr/arm-none-eabi/include/c++/14.2.0/charconv:
-
-/usr/arm-none-eabi/include/c++/14.2.0/numeric:
-
-/usr/arm-none-eabi/include/c++/14.2.0/cfenv:
+/usr/arm-none-eabi/include/c++/14.2.0/clocale:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cerrno:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cctype:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bitset:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_array.tcc:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/utility.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/uses_allocator_args.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/tr1/exp_integral.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/unordered_set.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/unique_lock.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/uniform_int_dist.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/forward_list:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/this_thread_sleep.h:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/streambuf_iterator.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_vector.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_tempbuf.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_stack.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/version.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/vector.tcc:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_pair.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_list.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_function.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_bvector.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/std_mutex.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/std_function.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/regex:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/specfun.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/slice_array.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr_base.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/debug/assertions.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr_atomic.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/unique_ptr.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/shared_ptr.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_executor.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_error.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_compiler.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_automaton.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_automaton.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_heap.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex.tcc:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/refwrap.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/range_access.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/random.h:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/ptr_traits.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/iomanip:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/predefined_ops.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/clocale:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_before.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/parse_numbers.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/ostream_insert.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/node_handle.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/new_allocator.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_after.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/nested_exception.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/memory_resource.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/utility:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/mask_array.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/localefwd.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/deque:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_tree.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets_nonio.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets_nonio.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_scanner.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/list.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/istream.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/climits:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/invoke.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/indirect_array.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/optional:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/hashtable_policy.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/locale:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/hashtable.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/gslice.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_memory_defs.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/functexcept.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/fstream.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/sstream:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/fs_dir.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/ios_base.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/forward_list.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/forward_list.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/exception_ptr.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/exception_defines.h:
+/home/junnaaa/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c:
 
 /usr/arm-none-eabi/include/machine/time.h:
 
 /usr/arm-none-eabi/include/wctype.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/vector:
 
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/legendre_function.tcc:
 
@@ -2870,45 +2482,35 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_ticks/ticks.c:
 
-/usr/arm-none-eabi/include/fenv.h:
-
 /home/junnaaa/pico-sdk/src/common/pico_util/pheap.c:
 
 /home/junnaaa/pico-sdk/src/common/pico_time/timeout_helper.c:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cassert:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/functional_hash.h:
-
-/home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/resets.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_sync/sync.c:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/variant:
 
 /home/junnaaa/pico-sdk/src/common/pico_time/time.c:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_uninitialized.h:
-
 /home/junnaaa/pico-sdk/src/common/hardware_claim/include/hardware/claim.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pll.h:
+
+/home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/resets.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/functional_hash.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cstddef:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_clocks/clocks.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/filesystem:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_iterator.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sysinfo.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/fs_ops.h:
 
 /home/junnaaa/pico-sdk/src/common/pico_time/include/pico/timeout_helper.h:
 
@@ -2920,9 +2522,11 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/common/pico_base_headers/include/pico/config.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/iosfwd:
+/usr/arm-none-eabi/include/c++/14.2.0/tuple:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_queue.h:
+/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/gthr.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/iosfwd:
 
 /usr/arm-none-eabi/include/sys/timespec.h:
 
@@ -2934,8 +2538,6 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_malloc/malloc.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/unordered_map.h:
-
 /usr/arm-none-eabi/include/sys/_timeval.h:
 
 /usr/arm-none-eabi/include/strings.h:
@@ -2945,8 +2547,6 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/tr1/modified_bessel_func.tcc:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/gslice_array.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/usb_dpram.h:
 
@@ -2964,51 +2564,25 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/sys/string.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ctime:
-
 /usr/arm-none-eabi/include/c++/14.2.0/cmath:
 
 /usr/arm-none-eabi/include/sys/sched.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++io.h:
-
 /usr/arm-none-eabi/include/sys/select.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/cstdint:
-
-/usr/arm-none-eabi/include/c++/14.2.0/algorithm:
 
 /usr/arm-none-eabi/include/stdlib.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/fs_fwd.h:
-
 /usr/arm-none-eabi/include/alloca.h:
-
-/usr/lib/gcc/arm-none-eabi/14.2.0/include/stdalign.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/stdc++.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_futex.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/quoted_string.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/memoryfwd.h:
-
-/usr/arm-none-eabi/include/machine/endian.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/streambuf.tcc:
 
 /home/junnaaa/pico-sdk/src/rp2040/pico_platform/include/pico/platform/cpu_regs.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/basic_file.h:
-
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/scb.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pads_bank0.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex.h:
 
 /home/junnaaa/pico-sdk/src/common/pico_util/datetime.c:
 
@@ -3022,21 +2596,19 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/valarray_array.h:
+/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h:
 
-/usr/arm-none-eabi/include/sys/fenv.h:
-
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_compiler.tcc:
 
 /usr/arm-none-eabi/include/sys/cdefs.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/tr1/beta_function.tcc:
+/usr/arm-none-eabi/include/c++/14.2.0/ext/string_conversions.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_multiset.h:
+/home/junnaaa/pico-sdk/src/rp2_common/hardware_irq/irq.c:
+
+/usr/arm-none-eabi/include/c++/14.2.0/tr1/beta_function.tcc:
 
 /usr/arm-none-eabi/include/sys/lock.h:
 
@@ -3044,13 +2616,9 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/time.h:
 
-/usr/arm-none-eabi/include/setjmp.h:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/std_abs.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_malloc/include/pico/malloc.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_executor.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_ios.tcc:
 
@@ -3070,8 +2638,6 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/sys/_intsup.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/cfloat:
-
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_uart/uart.c:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h:
@@ -3080,19 +2646,13 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdint.h:
 
-/usr/arm-none-eabi/include/sys/syslimits.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/condition_variable:
-
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ext/string_conversions.h:
+/usr/arm-none-eabi/include/machine/endian.h:
 
-/home/junnaaa/pico-sdk/src/rp2_common/hardware_irq/irq.c:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/deque.tcc:
+/usr/arm-none-eabi/include/c++/14.2.0/bits/memoryfwd.h:
 
 /usr/arm-none-eabi/include/stdio.h:
 
@@ -3108,17 +2668,11 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /usr/arm-none-eabi/include/c++/14.2.0/debug/debug.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_lockfree_defines.h:
-
 /usr/arm-none-eabi/include/sys/reent.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/unordered_set:
 
 /usr/arm-none-eabi/include/machine/stdlib.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cstdlib:
-
-/usr/arm-none-eabi/include/c++/14.2.0/pstl/glue_algorithm_defs.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c:
 
@@ -3128,11 +2682,7 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/mpu.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_set.h:
-
 /home/junnaaa/pico-sdk/src/common/pico_sync/mutex.c:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/chrono.h:
 
 /usr/arm-none-eabi/include/machine/_types.h:
 
@@ -3142,15 +2692,9 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/cstdarg:
-
 /usr/arm-none-eabi/include/c++/14.2.0/concepts:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_numeric.h:
-
 /home/junnaaa/pico-sdk/src/boards/include/boards/pico.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/future:
 
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/gthr-default.h:
 
@@ -3162,19 +2706,19 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++allocator.h:
+/usr/arm-none-eabi/include/c++/14.2.0/bits/ostream_insert.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/erase_if.h:
+/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++allocator.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/pico_platform/platform.c:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/enable_special_members.h:
-
 /usr/arm-none-eabi/include/sys/_types.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/backward/auto_ptr.h:
+/home/junnaaa/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h:
+
+/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_string.tcc:
 
@@ -3200,41 +2744,17 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.tcc:
-
-/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h:
-
 /home/junnaaa/pico-sdk/src/common/pico_sync/include/pico/mutex.h:
 
 /usr/arm-none-eabi/include/sys/features.h:
-
-/usr/arm-none-eabi/include/machine/setjmp.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/backward/binders.h:
 
 /usr/arm-none-eabi/include/sys/_pthreadtypes.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/set:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/move.h:
-
-/home/junnaaa/pico-sdk/src/rp2_common/pico_float/float_math.c:
-
 /usr/arm-none-eabi/include/sys/_stdint.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.tcc:
-
-/home/junnaaa/pico-sdk/src/common/pico_time/include/pico/time.h:
-
 /usr/lib/gcc/arm-none-eabi/14.2.0/include/float.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/shared_mutex:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stream_iterator.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/ostream.tcc:
-
-/home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h:
 
 /usr/arm-none-eabi/include/errno.h:
 
@@ -3258,8 +2778,6 @@ CMakeFiles/main.dir/main.cpp.o: /home/junnaaa/cubebot-project/project_cpp/main.c
 
 /home/junnaaa/pico-sdk/src/common/pico_sync/include/pico/sync.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/memory:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_printf/include/pico/printf.h:
@@ -3278,21 +2796,19 @@ generated/pico_base/pico/config_autogen.h:
 
 /usr/arm-none-eabi/include/sys/config.h:
 
+/usr/arm-none-eabi/include/c++/14.2.0/bits/exception_defines.h:
+
 /home/junnaaa/pico-sdk/src/common/pico_util/include/pico/util/pheap.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_flash/flash.c:
 
 /home/junnaaa/pico-sdk/src/common/pico_base_headers/include/pico/error.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/random.tcc:
-
 /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdbool.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/cwctype:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_timer/timer.c:
-
-/usr/arm-none-eabi/include/c++/14.2.0/ccomplex:
 
 /usr/arm-none-eabi/include/sys/times.h:
 
@@ -3302,10 +2818,6 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h:
 
-/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/time_members.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_vreg/vreg.c:
 
 /home/junnaaa/pico-sdk/src/common/pico_sync/lock_core.c:
@@ -3313,8 +2825,6 @@ generated/pico_base/pico/config_autogen.h:
 /home/junnaaa/pico-sdk/src/common/pico_sync/sem.c:
 
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/fs_path.h:
 
 /usr/arm-none-eabi/include/machine/ieeefp.h:
 
@@ -3328,19 +2838,13 @@ generated/pico_base/pico/config_autogen.h:
 
 /usr/arm-none-eabi/include/unistd.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/random:
+/usr/arm-none-eabi/include/c++/14.2.0/bits/postypes.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/uses_allocator.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_conv.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/psm.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/pstl/execution_defs.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_deque.h:
 
 /usr/arm-none-eabi/include/sys/stat.h:
 
@@ -3350,23 +2854,17 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/std_thread.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_time_adapter/include/pico/time_adapter.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h:
 
+/home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/ostream.tcc:
+
 /home/junnaaa/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom.h:
 
-/home/junnaaa/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h:
-
-/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/align.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_relops.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h:
 
@@ -3386,19 +2884,15 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ext/concurrence.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c:
-
-/usr/arm-none-eabi/include/inttypes.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_algobase.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/boot_stage2/include/boot_stage2/config.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/hash_bytes.h:
-
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/watchdog.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/hash_bytes.h:
 
 /usr/arm-none-eabi/include/sys/unistd.h:
 
@@ -3420,11 +2914,7 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_double/double_math.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_multimap.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_double/include/pico/double.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/ctgmath:
 
 /usr/arm-none-eabi/include/math.h:
 
@@ -3440,6 +2930,8 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_platform_common/common.c:
 
+/usr/arm-none-eabi/include/c++/14.2.0/bits/invoke.h:
+
 /home/junnaaa/pico-sdk/src/rp2_common/hardware_boot_lock/include/hardware/boot_lock.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/tbman.h:
@@ -3454,6 +2946,8 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/usb.h:
 
+/usr/arm-none-eabi/include/c++/14.2.0/bits/predefined_ops.h:
+
 /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/resets.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_float/include/pico/float.h:
@@ -3464,21 +2958,13 @@ generated/pico_base/pico/config_autogen.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_string.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/scoped_allocator:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/stl_iterator_base_types.h:
 
 /home/junnaaa/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_map.h:
-
 /home/junnaaa/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_algo.h:
-
 /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio/stdio.c:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_constants.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bit:
 
@@ -3492,17 +2978,15 @@ generated/pico_base/pico/config_autogen.h:
 
 /home/junnaaa/cubebot-project/project_cpp/main.cpp:
 
-/usr/arm-none-eabi/include/c++/14.2.0/bits/postypes.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/any:
-
 /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/atomic_word.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/ciso646:
-
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/c++locale.h:
+
+/home/junnaaa/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/ctype_base.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/ctype_inline.h:
 
@@ -3510,58 +2994,50 @@ generated/pico_base/pico/config_autogen.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/error_constants.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/messages_members.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/tuple:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/stl_raw_storage_iter.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/gthr.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/opt_random.h:
-
-/home/junnaaa/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/arm-none-eabi/thumb/v6-m/nofp/bits/ctype_base.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/array:
-
-/usr/arm-none-eabi/include/c++/14.2.0/atomic:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/sstream.tcc:
-
-/home/junnaaa/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/algorithmfwd.h:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/alloc_traits.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/allocated_ptr.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/basic_ios.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/memory_resource:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/char_traits.h:
-
-/usr/arm-none-eabi/include/wchar.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/exception:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/atomic_base.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/codecvt.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/concept_check.h:
 
-/usr/arm-none-eabi/include/c++/14.2.0/mutex:
-
 /usr/arm-none-eabi/include/c++/14.2.0/bits/cxxabi_forced.h:
-
-/usr/arm-none-eabi/include/c++/14.2.0/bits/regex_scanner.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/charconv.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/cxxabi_init_exception.h:
 
 /usr/arm-none-eabi/include/c++/14.2.0/bits/exception.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/exception_ptr.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/functexcept.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/ios_base.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.h:
+
+/home/junnaaa/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_classes.tcc:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/istream.tcc:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.h:
+
+/home/junnaaa/pico-sdk/src/common/pico_time/include/pico/time.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/locale_facets.tcc:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/localefwd.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/memory_resource.h:
+
+/home/junnaaa/pico-sdk/src/rp2_common/pico_float/float_math.c:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/move.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/nested_exception.h:
+
+/usr/arm-none-eabi/include/c++/14.2.0/bits/new_allocator.h:

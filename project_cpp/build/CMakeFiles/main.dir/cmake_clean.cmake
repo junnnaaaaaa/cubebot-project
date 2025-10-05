@@ -104,8 +104,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/home/junnaaa/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.o.d"
   "CMakeFiles/main.dir/main.cpp.o"
   "CMakeFiles/main.dir/main.cpp.o.d"
+  "main.bin"
+  "main.dis"
   "main.elf"
+  "main.hex"
   "main.pdb"
+  "main.uf2"
 )
 
 # Per-language clean rules from dependency scanning.

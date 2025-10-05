@@ -251,6 +251,19 @@ DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/bin/dot
 //Doxygen documentation generation tool (https://www.doxygen.nl)
 DOXYGEN_EXECUTABLE:FILEPATH=/usr/bin/doxygen
 
+//Directory under which to collect all populated content
+FETCHCONTENT_BASE_DIR:PATH=/home/junnaaa/cubebot-project/project_cpp/build/_deps
+
+//Disables all attempts to download or update content and assumes
+// source dirs already exist
+FETCHCONTENT_FULLY_DISCONNECTED:BOOL=OFF
+
+//Enables QUIET option for all content population
+FETCHCONTENT_QUIET:BOOL=ON
+
+//Enables UPDATE_DISCONNECTED behavior for all content population
+FETCHCONTENT_UPDATES_DISCONNECTED:BOOL=OFF
+
 //PICO target board (e.g. pico, pico2)
 PICO_BOARD:STRING=pico
 
@@ -334,6 +347,9 @@ pico_sdk_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 pico_sdk_SOURCE_DIR:STATIC=/home/junnaaa/pico-sdk
+
+//The directory containing a CMake configuration file for picotool.
+picotool_DIR:PATH=/usr/lib/cmake/picotool
 
 //The directory containing a CMake configuration file for pioasm.
 pioasm_DIR:PATH=pioasm_DIR-NOTFOUND
