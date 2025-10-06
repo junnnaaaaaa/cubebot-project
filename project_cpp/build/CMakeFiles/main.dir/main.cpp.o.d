@@ -52,13 +52,6 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/m0plus.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/nvic.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/scb.h \
- /home/junnaaa/pico-sdk/src/common/pico_stdlib_headers/include/pico/stdlib.h \
- /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
- /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h \
- /home/junnaaa/pico-sdk/src/common/pico_time/include/pico/time.h \
- /home/junnaaa/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
- /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h \
- /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h \
  /home/junnaaa/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
@@ -66,6 +59,13 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/junnaaa/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/resets.h \
  /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/resets.h \
+ /home/junnaaa/pico-sdk/src/common/pico_stdlib_headers/include/pico/stdlib.h \
+ /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
+ /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h \
+ /home/junnaaa/pico-sdk/src/common/pico_time/include/pico/time.h \
+ /home/junnaaa/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+ /home/junnaaa/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h \
+ /home/junnaaa/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h \
  /home/junnaaa/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
  /usr/arm-none-eabi/include/c++/14.2.0/cmath \
  /usr/arm-none-eabi/include/c++/14.2.0/bits/requires_hosted.h \

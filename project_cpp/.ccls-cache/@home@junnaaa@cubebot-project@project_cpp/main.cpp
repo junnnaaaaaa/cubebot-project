@@ -1,10 +1,18 @@
 #include "hardware/gpio.h"
+#include "hardware/uart.h"
 #include "pico/stdlib.h"
 #include "pico/time.h"
 #include <cmath>
 #include <iostream>
 #include <stdio.h>
 using namespace std;
+#define UART_ID uart0
+#define BAUD_RATE 9600
+#define UART_TX_PIN 0
+#define UART_RX_PIN 1
+#define DATA_BITS 8
+#define STOP_BITS 1
+#define PARITY UART_PARITY_NONE
 
 class stepper {
 private:
@@ -51,15 +59,40 @@ public:
     }
   }
 };
+void hc05init() {
+  gpio_set_function(UART_RX_PIN, GPIO_FUNC_UART);
+  gpio_set_function(UART_TX_PIN, GPIO_FUNC_UART);
+  uart_init(UART_ID, BAUD_RATE);
+  uart_puts(UART_ID, "\nbluetooth initialised\n");
+  uart_set_format(UART_ID, 8, 1, UART_PARITY_NONE);
+}
 int main() {
+  bool blue_init = false;
   stdio_init_all();
-  stepper test1(0, 1, 2, 3, 2048);
-  stepper drive_test(4, 5, 6, 7, 2048);
-  while (true) {
-    test1.move(1, 22, true);
-    drive_test.move(1, 15);
-    sleep_ms(500);
-    // gpio_put(0, 1);
+  stepper driver(2, 3, 4, 5, 2048);
+  gpio_set_input_enabled(28, true);
+  while (!blue_init) {
+    if (gpio_get(28)) {
+      hc05init();
+      blue_init = true;
+    }
   }
+  uart_puts(UART_ID, "\nfirst loop left\n");
+  while (1) {
+    char ch;
+    if (uart_is_readable(UART_ID)) {
+      ch = uart_getc(UART_ID);
+      uart_puts(UART_ID, "\nchar is read\n");
+    }
+    if (ch == 'l') {
+      driver.move(1, 15);
+      ch = 'x';
+    }
+    if (ch == 'r') {
+      driver.move(1, 15, true);
+      ch = 'x';
+    }
+  }
+  uart_puts(UART_ID, "\nsecond loop left\n");
   return 0;
 }
