@@ -15,7 +15,9 @@ using namespace std;
 #define PARITY UART_PARITY_NONE
 
 class stepper {
+  // creates stepper object
 private:
+  // defines constant
   const uint8_t coils[4];
   const uint8_t full_step[4] = {0b1100, 0b0110, 0b0011, 0b1001};
   const uint32_t steps_per_rotation;
@@ -63,9 +65,26 @@ void hc05init() {
   gpio_set_function(UART_RX_PIN, GPIO_FUNC_UART);
   gpio_set_function(UART_TX_PIN, GPIO_FUNC_UART);
   uart_init(UART_ID, BAUD_RATE);
-  uart_puts(UART_ID, "\nbluetooth initialised\n");
+  uart_puts(UART_ID, "\nuart connection initialised\n");
   uart_set_format(UART_ID, 8, 1, UART_PARITY_NONE);
 }
+class robot {
+private:
+  const stepper steppers[5];
+  const uart_inst_t *hc05;
+  const char letter_order[5] = {'r', 'l', 'f', 'b', 'd'};
+
+public:
+  robot(stepper stepr, stepper stepl, stepper stepf, stepper stepb,
+        stepper stepd, uart_inst_t *uart)
+      : steppers{stepr, stepl, stepf, stepb, stepd}, hc05(uart) {};
+  void single_char() {
+    char ch;
+    bool reverse;
+    if (uart_is_readable(hc05)) {
+    }
+  }
+};
 int main() {
   bool blue_init = false;
   stdio_init_all();
