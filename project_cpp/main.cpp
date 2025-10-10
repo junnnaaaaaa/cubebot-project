@@ -2,10 +2,11 @@
 #include "hardware/uart.h"
 #include "pico/stdlib.h"
 #include "pico/time.h"
+#include <cctype>
 #include <cmath>
+#include <cstdio>
 #include <iostream>
-#include <stdio.h>
-using namespace std;
+
 #define UART_ID uart0
 #define BAUD_RATE 9600
 #define UART_TX_PIN 0
@@ -38,8 +39,8 @@ public:
   void move(float turns, float speed, bool dir = false) { // temp manual delay
     uint32_t steps = steps_per_rotation * turns;
     uint64_t delay_us = ((60 / speed) / steps_per_rotation) * 1000000;
-    for (int i = 0; i < steps; i++) {
-      int current_step = i % size(full_step);
+    for (uint i = 0; i < steps; i++) {
+      int current_step = i % std::size(full_step);
       for (int j = 0; j < 4; j++) {
         int x = dir ? j : 3 - j;
         gpio_put(coils[j], (full_step[current_step] >> x) & 1);
@@ -70,18 +71,33 @@ void hc05init() {
 }
 class robot {
 private:
-  const stepper steppers[5];
-  const uart_inst_t *hc05;
+  stepper steppers[5];
   const char letter_order[5] = {'r', 'l', 'f', 'b', 'd'};
 
 public:
   robot(stepper stepr, stepper stepl, stepper stepf, stepper stepb,
-        stepper stepd, uart_inst_t *uart)
-      : steppers{stepr, stepl, stepf, stepb, stepd}, hc05(uart) {};
+        stepper stepd)
+      : steppers{stepr, stepl, stepf, stepb, stepd} {};
   void single_char() {
-    char ch;
+    char move;
     bool reverse;
-    if (uart_is_readable(hc05)) {
+    bool is_turned = false;
+    if (uart_is_readable(UART_ID)) {
+      move = uart_getc(UART_ID);
+      reverse = isupper(move);
+    }
+    move = tolower(move);
+    for (uint i = 0; i < sizeof(letter_order); i++) {
+      if (move == letter_order[i]) {
+        steppers[i].move(0.28, 15, reverse);
+        is_turned = true;
+        break;
+      }
+      if (!is_turned) {
+        uart_puts(UART_ID, "bad letter");
+      } else {
+        uart_puts(UART_ID, "good letter");
+      }
     }
   }
 };
