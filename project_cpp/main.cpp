@@ -14,7 +14,7 @@
 #define DATA_BITS 8
 #define STOP_BITS 1
 #define PARITY UART_PARITY_NONE
-
+bool exit_con = false;
 class stepper {
   // creates stepper object
 private:
@@ -91,6 +91,9 @@ public:
     bool is_turned = false;
     if (uart_is_readable(UART_ID)) {
       move = uart_getc(UART_ID);
+      if (move == 'x') {
+        exit_con = true;
+      }
       reverse = isupper(move); // checks case of character
       move =
           reverse ? tolower(move) : move; // ensures the character is lowercase
@@ -101,7 +104,7 @@ public:
           steppers[i].move(0.28, 15, reverse);
           sleep_ms(20);
           // goes back a bit less to compensate for missing steps. to be tuned
-          steppers[i].move(0.2, 15, !reverse);
+          steppers[i].move(0.02, 15, !reverse);
           is_turned = true;
           break;
         }
@@ -111,6 +114,7 @@ public:
       } else {
         uart_puts(UART_ID, "\ngood letter\n");
       }
+      sleep_ms(100);
     }
   }
 };
@@ -135,16 +139,11 @@ int main() {
     }
   }
   uart_puts(UART_ID, "\nfirst loop left\n"); // trouble shooting
-  while (true) {
+  while (!exit_con) {
     // constantly checks for next move
     cube.single_char();
-    if (uart_is_readable(UART_ID) &&
-        uart_getc(UART_ID) == 'x') { // exit condition
-      uart_puts(UART_ID, "\nexiting program\n");
-      break;
-    }
     sleep_ms(50);
   }
-  uart_puts(UART_ID, "\nexit done, thanks for using\n");
+  uart_puts(UART_ID, "\nexiting, thanks for using\n");
   return 0;
 }
